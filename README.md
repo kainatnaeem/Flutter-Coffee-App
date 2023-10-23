@@ -3,7 +3,6 @@
 
 
 
-https://github.com/kainatnaeem/Flutter-Coffee-App/assets/54583829/1d6a152d-0657-46b0-8ed3-84661f7a20aa
 
 
 A new Flutter project.
